@@ -9,7 +9,7 @@
 <img src="https://github.com/user-attachments/assets/32259229-234b-489a-8e41-ee4f845ff3d1" width="600"
 </p>
 
-## Modeloca scheme
+## Modelica scheme
 <p align="center">
 <img src="https://github.com/user-attachments/assets/cda04deb-f9b6-4e54-9301-8cb014e7527e" width="800"
 </p>
