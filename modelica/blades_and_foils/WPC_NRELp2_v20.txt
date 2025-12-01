@@ -1,0 +1,19 @@
+"Radius [m]"	"Chord [m]"	"Twist [deg]"	"Characteristic file [""]"	"Thickness"
+0.724	0.457	0.00	"D:/OM_Turbine/NREL/S809.txt"	21.0
+0.880	0.457	0.00	"D:/OM_Turbine/NREL/S809.txt"	21.0
+1.132	0.457	0.00	"D:/OM_Turbine/NREL/S809.txt"	21.0
+1.383	0.457	0.00	"D:/OM_Turbine/NREL/S809.txt"	21.0
+1.634	0.457	0.00	"D:/OM_Turbine/NREL/S809.txt"	21.0
+1.886	0.457	0.00	"D:/OM_Turbine/NREL/S809.txt"	21.0
+2.137	0.457	0.00	"D:/OM_Turbine/NREL/S809.txt"	21.0
+2.389	0.457	0.00	"D:/OM_Turbine/NREL/S809.txt"	21.0
+2.640	0.457	0.00	"D:/OM_Turbine/NREL/S809.txt"	21.0
+2.892	0.457	0.00	"D:/OM_Turbine/NREL/S809.txt"	21.0
+3.143	0.457	0.00	"D:/OM_Turbine/NREL/S809.txt"	21.0
+3.395	0.457	0.00	"D:/OM_Turbine/NREL/S809.txt"	21.0
+3.646	0.457	0.00	"D:/OM_Turbine/NREL/S809.txt"	21.0
+3.897	0.457	0.00	"D:/OM_Turbine/NREL/S809.txt"	21.0
+4.149	0.457	0.00	"D:/OM_Turbine/NREL/S809.txt"	21.0
+4.400	0.457	0.00	"D:/OM_Turbine/NREL/S809.txt"	21.0
+4.652	0.457	0.00	"D:/OM_Turbine/NREL/S809.txt"	21.0
+4.903	0.457	0.00	"D:/OM_Turbine/NREL/S809.txt"	21.0
